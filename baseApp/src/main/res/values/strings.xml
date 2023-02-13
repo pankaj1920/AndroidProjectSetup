@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppBase</string>
+    <string name="loading">Loading..</string>
+    <string name="digits">1234567890</string>
+    <string name="try_again">Try Again</string>
+    <string name="not_internet_connection">No Internet Connection</string>
+    <string name="please_wait">Please Wait ..</string>
+    <string name="login">Login</string>
+</resources>
